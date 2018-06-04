@@ -22,8 +22,8 @@ This is a photo gallery with authentication, comments, likes, and view count.
 	- Go to http://localhost:3000/ to view.
 
 * Database creation
-- Create database 'rails db:create'
-- Migrate database 'rails db:migrate'
+	- Create database 'rails db:create'
+	- Migrate database 'rails db:migrate'
 
 * Database initialization
 	- You will need MySQL installed and configured to make this photo gallery to work.
